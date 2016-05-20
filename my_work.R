@@ -7,6 +7,7 @@ library(lubridate)
 #test again
 #this is to perform changes in my repo to replicate the current scenario at Box - make changes in here, push to remote. then fetch from test_flight repo, rebase.
 #this scenario is to make changes here, push it to remote. In the test_flight repo i have un committed changes similar to box scenario. Let us see how it proceeds.
+#this to replicate 593 scenario from the direct flight analysis side
 setwd("C:/Sriram/Resumes/Full time/The advisory Board/data")
 
 #Browse the pwd. This is actually not needed but just for my personal purpose
