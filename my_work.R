@@ -7,7 +7,7 @@ library(lubridate)
 #test again
 setwd("C:/Sriram/Resumes/Full time/The advisory Board/data")
 
-#Browse the pwd
+#Browse the pwd. This is actually not needed but just for my personal purpose
 dir()
 
 #read data
