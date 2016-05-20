@@ -5,6 +5,7 @@ library(lubridate)
 #set working directory
 #just doing a test on Rebase as I had a problem on 2016-05-18 when working at Box
 #test again
+#this is to perform changes in my repo to replicate the current scenario at Box - make changes in here, push to remote. then fetch from test_flight repo, rebase.
 setwd("C:/Sriram/Resumes/Full time/The advisory Board/data")
 
 #Browse the pwd. This is actually not needed but just for my personal purpose
