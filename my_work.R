@@ -9,6 +9,7 @@ library(lubridate)
 #this scenario is to make changes here, push it to remote. In the test_flight repo i have un committed changes similar to box scenario. Let us see how it proceeds.
 #this to replicate 593 scenario from the direct flight analysis side
 #this is to test 454 scenario
+#scnario to test pull
 setwd("C:/Sriram/Resumes/Full time/The advisory Board/data")
 
 #Browse the pwd. This is actually not needed but just for my personal purpose
